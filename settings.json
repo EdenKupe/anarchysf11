@@ -1,14 +1,15 @@
 {
-    "siteTitle": "My Project Title",
-    "siteDescription": "This is the description of my project title",
-    "author": "John Doe",
+    "siteTitle": "AnarchySF",
+    "siteDescription": "An open-source repository of anarchist or anarchy-adjacent science fiction ",
+    "author": "AnarchySF",
     "faviconUrl": "/assets/myfavicon.png",
     "blogTitle": "Blog",
     "customLinks": [
         {
-            "url": "https://github.com/ita-design-system/eleventy-libdoc",
+            "url": "https://github.com/EdenKupe/anarchysf11",
             "text": "GitHub"
         }
     ],
-    "editThisPageRootUrl": "https://github.com/ita-design-system/eleventy-libdoc/blob/main"
+    "editThisPageRootUrl": "https://github.com/EdenKupe/anarchysf11/blob/main",
+    "displayTagsListLink": true
 }

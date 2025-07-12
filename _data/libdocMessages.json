@@ -152,11 +152,11 @@
         "fr": "Tag"
     },
     "tagsList": {
-        "en": "Tags list",
+        "en": "The Archive",
         "fr": "Liste des tags"
     },
     "tagsListDescription": {
-        "en": "List of every tag available",
+        "en": "Click a letter below to see all authors starting with that letter or browse by type",
         "fr": "Liste de l’ensemble des tags disponibles"
     },
     "toggleFloatingToc": {
