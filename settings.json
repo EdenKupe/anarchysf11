@@ -1,6 +1,6 @@
 {
-    "siteTitle": "AnarchySF",
-    "siteDescription": "An open-source repository of anarchist or anarchy-adjacent science fiction ",
+    "siteTitle": "AnarchySF 🚀",
+    "siteDescription": "An open-source repository of anarchist or anarchy-adjacent science fiction",
     "author": "AnarchySF",
     "faviconUrl": "/assets/myfavicon.png",
     "blogTitle": "Blog",
@@ -10,6 +10,6 @@
             "text": "GitHub"
         }
     ],
-    "editThisPageRootUrl": "https://github.com/EdenKupe/anarchysf11/blob/main",
+    "editThisPageRootUrl": "https://github.com/EdenKupe/anarchysf11/edit/main",
     "displayTagsListLink": true
 }

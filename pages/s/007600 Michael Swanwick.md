@@ -6,7 +6,7 @@
 # author: "Michael Swanwick"
 title: "Michael Swanwick - Vacuum Flowers (1987); The Iron Dragon's Daughter (1994)"
 layout: libdoc_page.liquid
-permalink: swanwick/index.html
+permalink: michael-swanwick/index.html
 date: git Last Modified
 tags:
     - book

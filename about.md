@@ -8,6 +8,14 @@ eleventyNavigation:
 date: git Last Modified
 ---
 
+### Quick Start
+
+* [Click here](/tags) to browse the archive in full
+* Follow us on [Bluesky](https://bsky.app/profile/anarchysf.bsky.social)
+* Check out our [podcast](https://creators.spotify.com/pod/profile/anarchysf/)
+
+### What is AnarchySF?
+
 AnarchySF is an online archive of the intersection between anarchy and science fiction. This archive is an open-source repository of anarchist or anarchy-adjacent science fiction. Featured on the site are books, movies, and other media which are either anarchist in their politics or of interest to anarchists.
 
 This archive was first collected and organized by [Ben Beck](http://benbeck.co.uk), who gathered and maintained it for the better part of four decades (!) As of 2019, it was redesigned and re-built by Eden Kupermintz and Yanai Sened as a collaborative effort (follow us on <a href="https://twitter.com/anarchy_sf">Twitter</a>!).
@@ -34,6 +42,6 @@ However, it is definitely true that science fiction "objectively" lends itself w
 
 ## Who Are We?
 
-**Eden Kupermintz**. Eden is best reached on [Twitter](https://twitter.com/tallesteden). You can find his fictional writing over at his [blog](https://ledaber.wordpress.com/). He's also the Editor in Chief for [Heavy Blog is Heavy](http://www.heavyblogisheavy.com/) (a mostly metal focused music blog).
+**Eden Kupermintz**. Eden is best reached on [Bluesky](https://bsky.app/profile/tallesteden.bsky.social). You can find his fictional writing over at his [blog](https://www.notthesky.com/). He's also the Editor in Chief for [Heavy Blog is Heavy](http://www.heavyblogisheavy.com/) (a mostly metal focused music blog).
 
 **Yanai Sened**, who chooses to remain mysterious.
