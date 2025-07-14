@@ -641,7 +641,7 @@ main table tbody tr td {
     line-height: 1.5em;
 }
 main table tbody tr:nth-child(odd) td {
-    background-color: var(--ita-colors-primary-800);
+    background-color: var(--ita-colors-primary-700);
     color: var(--ita-colors-primary-100);
 }
 
