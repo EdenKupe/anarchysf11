@@ -19,7 +19,6 @@
             "svgShortCircuit": true,
             "htmlOptions": {
                 "imgAttributes": {
-                    "loading": "lazy",
                     "decoding": "async"
                 },
                 "pictureAttributes": {
