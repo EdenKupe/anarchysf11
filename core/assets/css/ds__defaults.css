@@ -282,6 +282,14 @@ main > *:not(header) h6 a {
     display: none;
 }
 
+/* logo */
+
+.eleventy-image img {
+    max-height: 80px !important ; /* I'm really sorry that I did this but there is an attribute and I don't understand where it's coming from. Sorry! */
+    margin-bottom: -10px;
+    margin-left: 13px;
+}
+
 /* Search input */
 
 #searchInput {
