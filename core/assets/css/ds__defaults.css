@@ -411,6 +411,11 @@ main kbd {
     letter-spacing: -0.03em;
 }
 /* LISTS */
+
+li p {
+    margin: 0;
+}
+
 main ul,
 main ol {
     line-height: 1.6em;
@@ -623,10 +628,9 @@ main table {
 }
 main table thead th {
     text-align: left;
-    font-variation-settings: "wght" 700, "MONO" 0;
+    font-variation-settings: "wght" 800, "MONO" 0;
     font-size: var(--ita-fontSizes-3);
     padding: var(--ita-spacings-3);
-    background-color: var(--ita-colors-primary-100);
     border: 1px solid var(--ita-colors-primary-300);
 }
 main table tbody tr td {
@@ -637,12 +641,10 @@ main table tbody tr td {
     line-height: 1.5em;
 }
 main table tbody tr:nth-child(odd) td {
-    background-color: var(--ita-colors-primary-200);
-    color: var(--ita-colors-primary-900);
+    background-color: var(--ita-colors-primary-800);
+    color: var(--ita-colors-primary-100);
 }
-main table tbody tr:nth-child(even) td {
-    background-color: var(--ita-colors-primary-100);
-}
+
 main table td code {
     background-color: var(--ita-colors-primary-400);
     color: var(--ita-colors-neutral-100);
