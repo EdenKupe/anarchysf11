@@ -1,24 +1,24 @@
 
 :root {
   /* BRiCSS CSS variables start with --ita- */
-  --ita-colors-neutral-100: #FFFFFF;
+  --ita-colors-neutral-100: #0e141b;
   --ita-colors-neutral-200: #F6F6F6;
   --ita-colors-neutral-300: #EEEEEE;
   --ita-colors-neutral-400: #E5E5E5;
-  --ita-colors-neutral-500: #BFBFBF;
+  --ita-colors-neutral-500: #EEEEEE;
   --ita-colors-neutral-600: #999999;
   --ita-colors-neutral-700: #444444;
-  --ita-colors-neutral-800: #252525;
-  --ita-colors-neutral-900: #000000;
+  --ita-colors-neutral-800: #999999;
+  --ita-colors-neutral-900: #E0EEFE;
   --ita-colors-primary-100: #FAFCFF;
   --ita-colors-primary-200: #E0EEFE;
-  --ita-colors-primary-300: #7DB8F7;
+  --ita-colors-primary-300: #fd7676;
   --ita-colors-primary-400: #3F96F3;
   --ita-colors-primary-500: #0074EF;
   --ita-colors-primary-600: #0463C9;
   --ita-colors-primary-700: #0853A3;
   --ita-colors-primary-800: #0B427C;
-  --ita-colors-primary-900: #0F3156;
+  --ita-colors-primary-900: #0e141b;
   --ita-colors-success-100: #f2fbec;
   --ita-colors-success-500: #5cab33;
   --ita-colors-success-900: #2b650c;

@@ -21,7 +21,7 @@ eleventyExcludeFromCollections: true
                 <div class="pos-absolute t-tX-50 | p-1 | bc-primary-500 brad-4"></div>
                 <div class="pl-10 | bbwidth-1 bbstyle-dashed bcolor-neutral-500" pl-5="xs"></div>
                 <a  href="{{ item.page.url }}"
-                    class="d-flex fd-column gap-2 fg-1 | p-5 | td-none | bc-primary-100 bwidth-1 bstyle-dashed bcolor-neutral-500 brad-2">
+                    class="d-flex fd-column gap-2 fg-1 | p-5 | td-none | bc-primary-100 bwidth-1 bstyle-dashed bc-primary-900 bcolor-neutral-500 brad-2">
                     {%- if item.data.ogImageUrl %}
                         <img src="{{ item.data.ogImageUrl }}"
                             alt="{{ item.data.eleventyNavigation.key | default: item.data.title | default: item.page.inputPath }}"
