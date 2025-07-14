@@ -312,7 +312,7 @@ main a {
 }
 main a:link,
 main a:visited {
-    color: var(--ita-colors-primary-500);
+    color: var(--ita-colors-primary-100);
     font-variation-settings: "wght" 500, "MONO" 0;
     letter-spacing: -0.03em;
     /* text-shadow: none; */
@@ -320,7 +320,7 @@ main a:visited {
     text-decoration-thickness: 0.1em;
 }
 main a:hover {
-    color: var(--ita-colors-primary-700);
+    color: var(--ita-colors-primary-300);
     font-variation-settings: "wght" 700, "MONO" 0;
 }
 main a[aria-current="page"] {
