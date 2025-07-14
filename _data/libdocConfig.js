@@ -14,7 +14,7 @@ export default {
     lang: userConfig.lang ?? "en",
     siteTitle: userConfig.siteTitle ?? "11ty LibDoc",
     siteDescription: userConfig.siteDescription ?? "An Eleventy starter project to craft slick documentation",
-    siteLogoUrl: userConfig.siteLogoUrl ?? "",
+    siteLogoUrl: userConfig.siteLogoUrl ?? "https://raw.githubusercontent.com/EdenKupe/anarchysf/refs/heads/master/img/astrologo.png",
     siteLogoMaxHeight: userConfig.siteLogoMaxHeight ?? 60,
     author: userConfig.author ?? false,
     faviconUrl: userConfig.faviconUrl ?? "/favicon.png",
