@@ -121,11 +121,11 @@ body {
     font-size: var(--ita-fontSizes-5);
     font-variation-settings: "slnt" 0, "CASL" 0.5, "CRSV" 1, "MONO" 0, "wght" 360;
 }
-html,
+/* html,
 .o-auto {
     scrollbar-color: var(--ita-colors-primary-500) transparent;
     scrollbar-width: 10px;
-}
+} */
 button:disabled {
     opacity: 0.5;
     cursor: default;

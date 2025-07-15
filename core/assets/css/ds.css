@@ -473,8 +473,13 @@
 .minh-100 {
   min-height: 100%;
 }
+
 .o-auto {
   overflow: auto;
+}
+
+main .table-wrapper {
+  overflow: scroll;  
 }
 .o-hidden {
   overflow: hidden;
