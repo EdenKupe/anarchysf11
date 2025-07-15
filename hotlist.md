@@ -12,9 +12,6 @@ This archive can be a bit daunting; while the wealth of information contained wi
 
 In this page, you can find the authors' recommended reading and viewing lists. The first one is Eden's (who took over running the site in 2019) and the second one is Ben's (who started the original archive). We have varying tastes but all the recommendations on these lists revolve around the subject-matter at hand, namely political, leftist, and, hopefully, anarchist science fiction.
 
-{: .glowbox}
-Scrolling is bad for you! Here's [Eden's reading list](#recommended-reading), here's [Ben's reading list](#recommended-reading-1), and here's [Ben's recommended viewing](#recommended-viewing)! Just click to scroll; we care about your fingers.
-
 ## Eden's List
 
 Ben's list contains some truly great recommendations, some of them wildly read (like the excellent _The Dispossessed_) and some of them criminally underrated (like PKD's _The Last of the Masters_). However, I felt the need to provide my own recommendations, based on multiple inquiries by people who told me that the archive itself was just _so damn much_! Like Ben's, my list is divided into two parts; the first is a list of not only books but also articles that are worth your time. The second part is made up of movies or shows that I recommend watching (TBD).
