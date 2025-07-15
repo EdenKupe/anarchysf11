@@ -478,9 +478,6 @@
   overflow: auto;
 }
 
-main .table-wrapper {
-  overflow: scroll;  
-}
 .o-hidden {
   overflow: hidden;
 }

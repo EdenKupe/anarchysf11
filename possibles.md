@@ -3,8 +3,6 @@ title: Hotlist
 description: The top items we'd like to see reviewed for the site
 layout: libdoc_page.liquid
 permalink: possibles/index.html
-eleventyNavigation:
-    key: Hotlist
 date: git Last Modified
 ---
 
