@@ -1,16 +1,9 @@
 ---
-# title: "Vacuum Flowers (1987); The Iron Dragon's Daughter (1994)"
-# format: "book"
-# category: "s"
-# yearReleased: "1994"
-# author: "Michael Swanwick"
-title: "Michael Swanwick - Vacuum Flowers (1987); The Iron Dragon's Daughter (1994)"
-layout: libdoc_page.liquid
-permalink: michael-swanwick/index.html
-date: git Last Modified
-tags:
-    - book
-    - S
+title: "Vacuum Flowers (1987); The Iron Dragon's Daughter (1994)"
+format: "book"
+category: "s"
+yearReleased: "1994"
+author: "Michael Swanwick"
 ---
 _Vacuum Flowers_ is included in the <a href="http://www.librarything.com/work/188249/book/50433890">56aInfoshop</a>  library. In the first chapter there are throwaway references to streets named  Bakuninstrasse and Kropotkinkorridor, as well as a Berkmangallerie, but nothing  further is made of these.
 
